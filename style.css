@@ -1,0 +1,31 @@
+.card {
+margin: 60px auto;
+Animation: Color 2s infinite;
+border-radius: 5px;
+padding: 5px;
+    
+}
+@keyframes Color {
+  0% {
+    background-color: royalblue;
+  }
+  45% {
+    background-color: teal;
+  }
+  85% {
+    background-color: orange;
+  }
+  100% {
+    background-color: darkred;
+  }
+  
+div:hover {
+  transform: scalex(1);
+  transform: scaley(1);
+  
+}
+
+
+img {
+  border-radius: 5px;
+}
