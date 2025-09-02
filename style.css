@@ -1,0 +1,32 @@
+body {
+  background-image: linear-gradient(130deg ,#0080f4 ,#ff66b2);
+}
+.header {
+  color: rgb(255, 255, 255);
+  font-family:Arial, sans-serif;
+  justify-content: center;
+  text-align: center;
+  padding: 0px;
+  margin: 0 auto;
+  
+}
+table {
+  color: rgb(255, 255, 255);
+  border: solid white 0px;
+  column-gap: 0px;
+}
+.container {
+  padding: 180px;
+}
+th {
+  direction: none;
+  border: solid white 1px;
+  column-gap: 0px;
+  border-radius: 2px;
+  height: 25px;
+  width: 130px;
+}
+p {
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
